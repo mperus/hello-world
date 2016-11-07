@@ -1,2 +1,3 @@
 # hello-world
 test repository
+nekaj malega o meni, zelo, zelo malega...
